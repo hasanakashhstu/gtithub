@@ -1,0 +1,5 @@
+1. git pull origin shihab
+2. git commit -m "changes by shihab"
+3. git checkout merge1
+4. git merge shihab
+5. git push -u origin merge1
